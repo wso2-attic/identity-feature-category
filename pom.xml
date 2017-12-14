@@ -22,6 +22,13 @@
         <version>1</version>
     </parent>
 
+    <scm>
+        <url>https://github.com/wso2/identity-feature-category.git</url>
+        <developerConnection>scm:git:https://github.com/wso2/identity-feature-category.git</developerConnection>
+        <connection>scm:git:https://github.com/wso2/identity-feature-category.git</connection>
+        <tag>HEAD</tag>
+    </scm>
+
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wso2.carbon.identity.feature.category</groupId>
     <artifactId>identity-feature-category</artifactId>
