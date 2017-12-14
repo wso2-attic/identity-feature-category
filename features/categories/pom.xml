@@ -20,7 +20,7 @@
     <parent>
         <groupId>org.wso2.carbon.identity.feature.category</groupId>
         <artifactId>identity-feature-category-aggregator</artifactId>
-        <version>1.0.5</version>
+        <version>1.0.6-SNAPSHOT</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
