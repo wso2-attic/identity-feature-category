@@ -26,7 +26,7 @@
         <url>https://github.com/wso2/identity-feature-category.git</url>
         <developerConnection>scm:git:https://github.com/wso2/identity-feature-category.git</developerConnection>
         <connection>scm:git:https://github.com/wso2/identity-feature-category.git</connection>
-        <tag>v1.0.7</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <modelVersion>4.0.0</modelVersion>
@@ -34,7 +34,7 @@
     <artifactId>identity-feature-category</artifactId>
     <packaging>pom</packaging>
     <description>WSO2 Identity Server Feature Category</description>
-    <version>1.0.7</version>
+    <version>1.0.8-SNAPSHOT</version>
     <name>WSO2 Identity Server Feature Category</name>
     <url>https://github.com/wso2/identity-feature-category</url>
 
